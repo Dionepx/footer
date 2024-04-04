@@ -1,0 +1,7 @@
+.footer {
+     position: absolute;
+     border-top: 5px solid #8888; -> Aqui
+     top: 1475px;
+     width: 100%;
+     padding-top: 100px;
+ }
